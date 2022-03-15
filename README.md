@@ -39,4 +39,4 @@
 
 
 # 소개 영상
-[![video1](http://img.youtube.com/vi/watch?v=mGyuCK_KMoM.jpg)](https://www.youtube.com/watch?v=mGyuCK_KMoM)
+[![video1](http://img.youtube.com/vi/mGyuCK_KMoM/0.jpg)](https://youtu.be/mGyuCK_KMoM)
