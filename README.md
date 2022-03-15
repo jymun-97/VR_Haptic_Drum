@@ -39,6 +39,6 @@
 
 
 # 소개 영상
-https://user-images.githubusercontent.com/89020936/158392020-8dc60ca8-1d5d-40c4-8d23-468bdf3f89c1.mp4
-https://user-images.githubusercontent.com/89020936/158392068-ff7058c0-bb8e-4b73-a79e-0bad87b0df79.mp4
+<iframe width="956" height="538" src="https://www.youtube.com/watch?v=mGyuCK_KMoM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="956" height="538" src="https://www.youtube.com/watch?v=1PxI6T_X53Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
