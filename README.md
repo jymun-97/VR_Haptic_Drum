@@ -39,6 +39,4 @@
 
 
 # 소개 영상
-<iframe width="956" height="538" src="https://www.youtube.com/watch?v=mGyuCK_KMoM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="956" height="538" src="https://www.youtube.com/watch?v=1PxI6T_X53Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://www.youtube.com/watch?v=mGyuCK_KMoM)
