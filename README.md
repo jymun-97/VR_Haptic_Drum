@@ -28,3 +28,6 @@
 - **난관 봉착 시** 스스로 고민하는 능력과 협업을 통해 **해결하는 능력**
 
 # 📺 소개 영상
+[https://www.youtube.com/watch?v=mGyuCK_KMoM](https://www.youtube.com/watch?v=mGyuCK_KMoM)
+
+[https://www.youtube.com/watch?v=1PxI6T_X53Y](https://www.youtube.com/watch?v=1PxI6T_X53Y)
