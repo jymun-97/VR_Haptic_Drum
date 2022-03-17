@@ -1,8 +1,9 @@
 # VR_Haptic_Drum!
 ![EntiImage](https://user-images.githubusercontent.com/89020936/158392236-17e3b8ce-04bb-4cec-90da-85dd02a97bb2.png)
 
+### [1.주제](#주제)
    
-# ⭐ 주제
+## ⭐ 주제
   
 - **VR 환경에서 사용자에게 실감나는 연주를 제공하는 VR 햅틱 드럼**
 - 교내 졸업작품 경진대회 **은상**
